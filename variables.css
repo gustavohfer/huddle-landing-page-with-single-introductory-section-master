@@ -1,0 +1,8 @@
+:root {
+    --color1: hsl(257, 40%, 49%);
+    --color2: hsl(300, 41%, 52%);
+    --text-color1: hsl(0, 0%, 100%);
+    --link-hover: hsl(from var(--color2) h 60% 80%);
+    
+
+}
